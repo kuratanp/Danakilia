@@ -6,9 +6,9 @@ This library is still under development. Currently, only [KMeans clustering meth
 
 Please refer the notebook: mlclusters_nb_simulated_data.ipynb to see a demonstration of the library used with a generated data. 
 
-
-
 #### _In Development_
+
+One of the problems with clustering methods is how to handle missing data. In the case in PCA clustering methods, missing data are often treated as 0 (homozygous) which may skew results. However, using scikit-learn we can cluster data with "missing data" instead of assigning 0. I am currently working on comparing those two methods. You can visit my notebook (Missing_data.ipynb) to see my progress.
 
 
 ### Installation
