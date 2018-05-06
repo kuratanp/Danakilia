@@ -9,7 +9,7 @@ Please refer the notebook: mlclusters_nb_simulated_data.ipynb to see a demonstra
 #### _In Development_
 
 One of the problems with clustering methods is how to handle missing data. In the case in PCA clustering methods, missing data are often treated as 0 (homozygous) which may skew results. However, using scikit-learn we can cluster data with "missing data" instead of assigning 0. I am currently working on comparing those two methods. You can visit my notebook (Missing_data.ipynb) to see my progress.
-I am also working on this notebook (mlclusters_nb_v1.ipynb)to test the method with an example geno file that is available in the Data folder.
+I am also working on this notebook (mlclusters_nb_v1.ipynb) to test the method with an example geno file that is available in the Data folder.
 
 
 ### Installation
