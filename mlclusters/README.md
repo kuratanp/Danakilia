@@ -6,7 +6,10 @@ This library is still under development. Currently, only [KMeans clustering meth
 
 Please refer the notebook: mlclusters_nb_simulated_data.ipynb to see a demonstration of the library used with a generated data. 
 
+
+
 #### _In Development_
+
 
 ### Installation
 
