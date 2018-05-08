@@ -1,7 +1,7 @@
 # mlclusters
 
 The mlclusters is a tool to visualize ddRAD (Double Digest Restriction Associated DNA) assemblies using machine learning clustering methods available in [scikit-learn](http://scikit-learn.org/stable/index.html). 
-The mlclusters takes ipyrad output files (e.g. geno format), stores SNPS data using numpy and pandas, fits the various models currently available into scikit-learn, evaluates clustering performance and creates visual plots using Matplotlib, and Toyplot. 
+The mlclusters takes ipyrad output files (e.g. geno format), stores SNPS data using `numpy` and `pandas`, fit the various models currently available in scikit-learn, evaluate clustering performance and create visual plots using `Matplotlib`, and `Toyplot`.
 
 This library is still under development. Currently, only [KMeans clustering method](http://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html) is available, however I am adding other clustering methods soon. Input assembly files need to be in geno format, which can be obtained using [ipyrad](http://ipyrad.readthedocs.io/outline.html).
 
