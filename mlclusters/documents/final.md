@@ -1,3 +1,5 @@
+### Final project essay
+
 __Question1: Now that you have seen many full research projects saved online as GitHub repositories do you plan to use GitHub for your future projects as a way to store code and data in the cloud and to share your progress with others?__
 
 Definitely!  GitHub is an incredible tool that I am glad that I became familiar with. I really like its transparency of what others are doing and what we can learn from each other. I think that Github broadens research possibilities and encourages collaboration around the world.__
