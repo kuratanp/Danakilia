@@ -2,7 +2,7 @@
 
 __Question1: Now that you have seen many full research projects saved online as GitHub repositories do you plan to use GitHub for your future projects as a way to store code and data in the cloud and to share your progress with others?__
 
-Definitely!  GitHub is an incredible tool that I am glad that I became familiar with. I really like its transparency of what others are doing and what we can learn from each other. I think that Github broadens research possibilities and encourages collaboration around the world.__
+Definitely!  GitHub is an incredible tool that I am glad that I became familiar with. I really like its transparency of what others are doing and what we can learn from each other. I think that Github broadens research possibilities and encourages collaboration around the world.
 
 __Question2:Did you project accomplish the goals that you set out for yourself in your proposal? If not, why? What was the hardest problem in your project that were able to overcome? What, if any, was a problem that you were unable to overcome in your project within the given time?__
 
